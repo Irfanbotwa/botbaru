@@ -29,7 +29,7 @@ global.thumbnail = "./image/irfan.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/0cfdc13c778618a39d118.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6289510497533","6289510497533","6285855854993"] //ganti agar fitur owner bisa di gunakan
-global.packname = 'I R F A N B O Tོ' //sticker wm
+global.packname = 'I R F A N B O T' //sticker wm
 global.author = 'IRFANFF9' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
